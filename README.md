@@ -68,7 +68,7 @@
 </p>
 
  *****************************************
- <p align="center">
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadibarkinseber&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sadibarkinseber" width="360" height="250"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sadibarkinseber&show_icons=true&theme=tokyonight&locale=en" alt="sadibarkinseber" width="400" height="250"/>
 </p>
