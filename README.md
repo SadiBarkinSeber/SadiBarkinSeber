@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadibarkinseber&label=Profile%20views&color=0eb437&style=flat" alt="sadibarkinseber" /> </p>
 
 - 🌱 I’m currently learning **C#**
-:house: Kartal / İSTANBUL
+- :house: Kartal / İSTANBUL
 - 📫 How to reach me **sadibarkn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
