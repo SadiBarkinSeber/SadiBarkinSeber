@@ -5,10 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/barknseber/) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiBarkinSeber&langs_count=8)
-
-![Github istatistikleri](https://github-readme-stats.vercel.app/api?username=SadiBarkinSeber&show_icons=true&theme=radical)
-
 <img src="https://media1.giphy.com/media/f1UH5LwVuWucM/giphy.gif?cid=ecf05e47wgwhbot34bjv0f61t89z0pkaaor8fumk0hizazyi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="465" height="260">
 
 *****************************************
