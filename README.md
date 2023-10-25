@@ -73,5 +73,5 @@
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=sadibarkinseber&show_icons=true&theme=tokyonight&locale=en" alt = " sadibarkinseber" width="400" height="250"/></p>
 
 <p align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibarkinseber&theme=dark" alt="sadibarkinseber" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadibarkinseber&theme=dark" alt="sadibarkinseber">
 </p>
