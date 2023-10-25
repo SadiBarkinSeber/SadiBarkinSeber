@@ -1,15 +1,8 @@
-<style>
-  .centered {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-</style>
 
-<div class="centered">
+
+<p align="center">
 <img src="https://media1.giphy.com/media/f1UH5LwVuWucM/giphy.gif?cid=ecf05e47wgwhbot34bjv0f61t89z0pkaaor8fumk0hizazyi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="465" height="260">
-</div>
+</p>
 
 *****************************************
 
@@ -74,11 +67,8 @@
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p> 
 </p>
  
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadibarkinseber&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sadibarkinseber" width="360" height="250"/></p>
-
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=sadibarkinseber&show_icons=true&theme=tokyonight&locale=en" alt = " sadibarkinseber" width="400" height="250"/></p>
-
+<p align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibarkinseber&theme=dark" alt="sadibarkinseber" /></p>
+</p>
