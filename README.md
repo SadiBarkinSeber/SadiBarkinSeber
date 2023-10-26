@@ -72,14 +72,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sadibarkinseber&show_icons=true&theme=tokyonight&locale=en" alt="sadibarkinseber" width="400" height="250"/>
 </p>
 
-
-
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadibarkin&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sadibarkin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadibarkin&show_icons=true&theme=tokyonight&locale=en" alt="sadibarkin" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibarkin&theme=dark" alt="sadibarkin" /></p>
 
   
