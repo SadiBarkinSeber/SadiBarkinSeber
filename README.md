@@ -74,4 +74,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibarkin&theme=dark" alt="sadibarkinseber" /></p>
 
-  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadibarkinseber&theme=tokyonight&hide_border=false)<br/>
