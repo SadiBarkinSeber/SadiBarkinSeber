@@ -72,6 +72,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sadibarkinseber&show_icons=true&theme=tokyonight&locale=en" alt="sadibarkinseber" width="400" height="250"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibarkin&theme=dark" alt="sadibarkin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadibarkin&theme=dark" alt="sadibarkinseber" /></p>
 
   
