@@ -78,7 +78,11 @@
     </div>
     <!-- Sağ tarafta olan GIF -->
     <div style="flex: 1;">
-        <img src="https://media1.giphy.com/media/f1UH5LwVuWucM/giphy.gif?cid=ecf05e47wgwhbot34bjv0f61t89z0pkaaor8fumk0hizazyi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="465" height="260">
+        <h3 align="left">Framework:</h3>
+<p align="left"> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+</p>
     </div>
 </div>
 
