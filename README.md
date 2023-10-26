@@ -28,16 +28,6 @@
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <h3 align="left">Connect with me:</h3>
-        <p align="left">
-            <a href="https://github.com/sadibarkinseber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sadibarkinseber" height="30" width="40" /></a> 
-            <a href="https://www.linkedin.com/in/sadi-bark%C4%B1n-%C5%9Feber-66280020b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadi-barkın-şeber" height="30" width="40" /></a>
-            <a href="https://stackoverflow.com/users/22518840/barknseber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="barknseber" height="30" width="40" /></a>
-            <a href="https://www.hackerrank.com/sadibarkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sadibarkn" height="30" width="40" /></a>
-            <a href="https://medium.com/@sadibarkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadibarkn" height="30" width="40" /></a>
-        </p>
-    </div>
-    <div style="flex: 1;">
         <h3 align="left">Programming Languages:</h3>
         <p align="left"> 
             <a href="https://www.w3schools.com/cs/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
