@@ -79,6 +79,43 @@
 </p>
 </br>
 
+ <style>
+        .split-container {
+            display: flex;
+        }
+        .left-side {
+            flex: 1;
+            padding: 20px;
+        }
+        .right-side {
+            flex: 1;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Kodların olduğu bölümü bölmek için bir konteyner ekleyin -->
+    <div class="split-container">
+        <div class="left-side">
+            <!-- Sol taraftaki içerik buraya gelecek -->
+            <!-- İlk blok -->
+            <h3 align="left">Programming Languages:</h3>
+            <p align="left"> 
+                <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+                <!-- Diğer beceriler -->
+            </p>
+            <!-- İkinci blok -->
+            <h3 align="left">Backend Development:</h3>
+            <p align="left">
+                <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+                <!-- Diğer backend geliştirme becerileri -->
+            </p>
+        </div>
+        <div class="right-side">
+            <!-- Sağ taraftaki içerik buraya gelecek -->
+            <img src="https://media1.giphy.com/media/f1UH5LwVuWucM/giphy.gif?cid=ecf05e47wgwhbot34bjv0f61t89z0pkaaor8fumk0hizazyi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="465" height="260">
+        </div>
+    </div>
  *****************************************
  
 <p align="center">
