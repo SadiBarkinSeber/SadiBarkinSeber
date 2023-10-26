@@ -48,7 +48,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
+<img src="https://media1.giphy.com/media/f1UH5LwVuWucM/giphy.gif?cid=ecf05e47wgwhbot34bjv0f61t89z0pkaaor8fumk0hizazyi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="465" height="260">
 
 <h3 align="left">AI/ML:</h3>
 <p align="left"> 
